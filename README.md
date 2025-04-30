@@ -1,6 +1,6 @@
 # Verified-Product-Authenticity-Chain
 MetaMars Address- 0x23300993DBCAB44b0Bccb05Cd3582B8Df6353481
-Verified Product Authenticity Chain
+Verified Product Authenticity Chain.
 Project Description
 The Verified Product Authenticity Chain is a blockchain-based solution built on Core DAO that ensures the authenticity and provenance of physical products throughout their lifecycle. This decentralized application (dApp) allows manufacturers to register their products on the blockchain, creating an immutable record of each item's origin, manufacturing details, and verification status.
 
