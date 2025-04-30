@@ -23,6 +23,7 @@ To create a transparent, trustless ecosystem where consumers and businesses can 
 -Events Emission: Listen to blockchain events when products are registered or verified.
 
 🔮 Future Scope
+
 ✅ Role-based access for multiple verifiers
 
 ✅ Integration with QR code and RFID scanning
